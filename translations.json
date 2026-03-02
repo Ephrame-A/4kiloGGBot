@@ -1,0 +1,54 @@
+{
+  "English": {
+    "ask_language": "Please pick your preferred language:",
+    "invalid_language": "Please choose one of the available languages.",
+    "ask_name": "Welcome to 4kilo Gbi Gubae notification bot. What is your full name?",
+    "invalid_name": "Please enter a valid name so we can personalize messages.",
+    "ask_gender": "Great! Please pick your gender (M/F):",
+    "invalid_gender": "Please use the buttons provided and choose M or F.",
+    "ask_dept": "Next, select your Department:",
+    "ask_year": "Finally, what is your Year of study? (1-4)",
+    "invalid_year": "Please pick a year from 1 to 4 using the buttons.",
+    "registration_success": "Registration successful! You'll now receive customized notifications.",
+    "session_expired": "Session expired. Please send /start to register again."
+  },
+  "Amharic": {
+    "ask_language": "የተመረጡትን ቋንቋ ይምረጡ:",
+    "invalid_language": "እባክዎ ካሉት ቋንቋዎች አንዱን ይምረጡ.",
+    "ask_name": "እንኳን ወደ 4ኪሎ ግቢ ጉባኤ ማሳወቂያ ቦት በሰላም መጡ፡፡ እባክዎ ስምዎትን ያስገቡ።",
+    "invalid_name": "እባክዎ የተስተካከለ ስም ያስገቡ ።",
+    "ask_gender": "ፆታዎን ያስገቡ (M/F):",
+    "invalid_gender": "እባክዎ የተሰጡትን አማራጮች ይጠቀሙ (M ወይም F).",
+    "ask_dept": "Department ይምረጡ:",
+    "ask_year": "የትምህርት ዓመትዎን (1-4) ይምረጡ:",
+    "invalid_year": "እባኮትን 1-4 ያለውን አመት ይምረጡ.",
+    "registration_success": "በተሳካ ሁኔታ ተመዝግበዋል! የግቢ ጉባኤያችን የተለያዩ ማሳወቂያዎች የሚደርሶት ዪሆናል፡፡.",
+    "session_expired": "ሂደቱ ተቋርጧል። እባክዎ /start ብለው ይጀምሩ."
+  },
+  "Afan Oromo": {
+    "ask_language": "Afaan filatamaa kee filadhu:",
+    "invalid_language": "Afaan filatamuu keessaa tokko filadhu.",
+    "ask_name": "Maqaa guutuu kee maal?",
+    "invalid_name": "Maqaa sirrii galchi akka si beeksifnu.",
+    "ask_gender": "Amma saala kee filadhu (M/F):",
+    "invalid_gender": "Tuqaa kennaman fayyadami; M ykn F filadhu.",
+    "ask_dept": "Kutaa barnoota kee filadhu:",
+    "ask_year": "Dhuma irratti waggaa barnoota kee (1-4) fili:",
+    "invalid_year": "Lakkoofsa waggaa 1 hanga 4 filadhu.",
+    "registration_success": "Galmeessi milkaa'e! Ergaa addaa siif ergina.",
+    "session_expired": "Turtiin xumurame. /start ergi itti fufi."
+  },
+  "Tigrigna": {
+    "ask_language": "ቋንቋ ምረጽ:",
+    "invalid_language": "ካሉ ቋንቋታት ሓደ ምረጽ ብቕዓት.",
+    "ask_name": "ምሉእ ስምካ እባክካ ኣእቱ:",
+    "invalid_name": "ትኽክለኛ ስም ኣእቱ ንምግባር ናይ መልእኽቲ ኣብ ስምካ.",
+    "ask_gender": "ፆታኻ ምረጽ (M/F):",
+    "invalid_gender": "ኣብ ተጠቃሚ ኡፍሪ ዘሎ ቦታ ተጠቀም እናተ ምረጽ M ወይ F.",
+    "ask_dept": "ዓዲ ትምህርቲኻ ምረጽ:",
+    "ask_year": "መወዳእታ ዓመት ትምህርቲኻ (1-4) ምረጽ:",
+    "invalid_year": "ኣብ ሓሙሽተ 1-4 ዘሎ ዓመት ምረጽ ብቕዓት.",
+    "registration_success": "ምዝገባ ተሳክዐ! ዝተለየ መልእኽቲ ክትበልካ ኢና.",
+    "session_expired": "ክፍሊት ሕሉፍ ኣቋርጽና እዩ። /start ምልኣኽ ተጀምር."
+  }
+}

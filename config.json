@@ -1,0 +1,29 @@
+{
+  "admins": {
+    "master": [2049464427],
+    "year": {
+      "1": [703105721],
+      "2": [1131807159],
+      "3": [2049464427],
+      "4": [6486705913]
+    }
+  },
+  "options": {
+    "default_language": "English",
+    "genders": ["M", "F"],
+    "years": [1, 2, 3, 4],
+    "departments": [
+      "CS",
+      "IS",
+      "Statistics",
+      "Biology",
+      "Chemistry",
+      "Mathematics",
+      "Geology",
+      "Physics",
+      "Art",
+      "Freshman",
+      "Engineering/Other"
+    ]
+  }
+}
