@@ -28,27 +28,27 @@
   "Afan Oromo": {
     "ask_language": "Afaan filatamaa kee filadhu:",
     "invalid_language": "Afaan filatamuu keessaa tokko filadhu.",
-    "ask_name": "Maqaa guutuu kee maal?",
+    "ask_name": "Baga gara Bootii Beeksisa Gibi Guba’ee 4 Kiiloo nagaan dhuftan. Maqaa guutuu kee maal?",
     "invalid_name": "Maqaa sirrii galchi akka si beeksifnu.",
-    "ask_gender": "Amma saala kee filadhu (M/F):",
-    "invalid_gender": "Tuqaa kennaman fayyadami; M ykn F filadhu.",
-    "ask_dept": "Kutaa barnoota kee filadhu:",
-    "ask_year": "Dhuma irratti waggaa barnoota kee (1-4) fili:",
-    "invalid_year": "Lakkoofsa waggaa 1 hanga 4 filadhu.",
-    "registration_success": "Galmeessi milkaa'e! Ergaa addaa siif ergina.",
-    "session_expired": "Turtiin xumurame. /start ergi itti fufi."
+    "ask_gender": "saala kee filadhu (M/F):",
+    "invalid_gender": "Maaloo filannoowwan dhiyaatan (M yookaan F) fayyadamaa.",
+    "ask_dept": "Dippartimaantii kee filadhu:",
+    "ask_year": "Waggaa barnoota kee (1-4) fili:",
+    "invalid_year": "Maaloo 1 hanga 4 filadhu.",
+    "registration_success": "Milka'inaan galmaa'aniittu! Beeksisonni Gibi Guba'ee keenyaa adda addaa isiniif ni dhaqqabu.",
+    "session_expired": "Adeemsichi addaan citeera. Maaloo /start jedhaatii jalqabaa."
   },
   "Tigrigna": {
-    "ask_language": "ቋንቋ ምረጽ:",
-    "invalid_language": "ካሉ ቋንቋታት ሓደ ምረጽ ብቕዓት.",
-    "ask_name": "ምሉእ ስምካ እባክካ ኣእቱ:",
-    "invalid_name": "ትኽክለኛ ስም ኣእቱ ንምግባር ናይ መልእኽቲ ኣብ ስምካ.",
-    "ask_gender": "ፆታኻ ምረጽ (M/F):",
-    "invalid_gender": "ኣብ ተጠቃሚ ኡፍሪ ዘሎ ቦታ ተጠቀም እናተ ምረጽ M ወይ F.",
-    "ask_dept": "ዓዲ ትምህርቲኻ ምረጽ:",
-    "ask_year": "መወዳእታ ዓመት ትምህርቲኻ (1-4) ምረጽ:",
-    "invalid_year": "ኣብ ሓሙሽተ 1-4 ዘሎ ዓመት ምረጽ ብቕዓት.",
-    "registration_success": "ምዝገባ ተሳክዐ! ዝተለየ መልእኽቲ ክትበልካ ኢና.",
-    "session_expired": "ክፍሊት ሕሉፍ ኣቋርጽና እዩ። /start ምልኣኽ ተጀምር."
-  }
+    "ask_language": "በይዝኦም ዝደልይዎ ቋንቋ ይምረፁ:",
+    "invalid_language": "በይዝኦም ካብዞም ዘለዉ ቋንቋታት ሓደ ይምረፁ.",
+    "ask_name": "እንኳዕ ናብ 4ኪሎ ግቢ ጉባኤ መፍለጢ(notification) ቦት ብደሓን መፁ። በይዝኦም ሽሞም የእትዉ:",
+    "invalid_name": "በይዝኦም ዝተስተኻኸለ ሽም የእትዉ.",
+    "ask_gender": "ፆትኦም የእትዉ (M/F):",
+    "invalid_gender": "በይዝኦም ዝተውሃቦም አማራፅታት ጥራሕ ይጠቐሙ (M ወይ F).",
+    "ask_dept": "Department ይምረፁ:",
+    "ask_year": "ናይ ትምህርቲ ዓመቶም (1-4) የእትዉ:",
+    "invalid_year": "በይዝኦም 1-4 ዘሎ ዓመት ይምረፁ.",
+    "registration_success": "ብዝተሳኽዐ ኩነታት ተመዝጊቦም አለው! ናይ ግቢና ዝተፈላለዩ መፍለጢታት(notifications) ዝበፅሖም ይኸውን።",
+    "session_expired": "እቲ ኸይዲ ተቛሪፁ አሎ። በይዝኦም /start ኢሎም ይጀምሩ።"
+}
 }
